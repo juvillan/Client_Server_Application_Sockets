@@ -13,6 +13,7 @@ If the input text does not match any title in the file, display "No results foun
 The user should be able to make such an inquiry multiple times during the lifetime of a connection.
 
 Note that:
+
 1) Test both your server and client programs in a single machine, and use IP address “127.0.0.1” (local host) as the 
    server’s IP address and port number "12345" for this service.
    
